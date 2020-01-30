@@ -1,0 +1,17 @@
+{
+  "name": "images-fetcher",
+  "version": "1.0.0",
+  "description": "",
+  "main": "get_photos_from.js",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nam Do Tri",
+  "license": "ISC"
+}
